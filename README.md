@@ -5,7 +5,7 @@ A repo for the Git course
 
 bla bla
 
-## SUbtitle 2
+## Subtitle 2
 
 blablabla
 
